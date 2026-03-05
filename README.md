@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Hyunwoo Kim
 
-<!--
-**hyunwooo5934/hyunwooo5934** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Android Developer based in Seoul 🇰🇷  
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Kotlin
+- Jetpack Compose
+- MVVM
+- Clean Architecture
+- Coroutines / Flow
+- Retrofit / OkHttp
+- Hilt
+
+## 📱 Interested In
+
+- Scalable Android Architecture
+- Performance Optimization
+- Modern Android Development
+
+## 📌 Featured Projects
+
+- Compose Architecture Study
+- Clean Architecture Sample App
+- JWT Login Android Sample
